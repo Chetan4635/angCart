@@ -1,0 +1,25 @@
+[
+	{
+		"productId": 1,
+		"productName": "Honor 8x",
+		"productCode": "MOB-120",
+		"description": "64GB, Coral Blue",
+		"price": 60569,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Samsung",
+		"ostype": "Android",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "Galaxy Note 2",
+		"productCode": "MOB-124",
+		"description": "64GB, Gold",
+		"price": 60200,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Samsung",
+		"ostype": "Android",
+		"rating": 4
+	}
+	
+]

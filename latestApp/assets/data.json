@@ -1,0 +1,16 @@
+[{"Region":"East","Members":[{"Name":"Rashika","ID":1,"Status":"Available"},
+    {"Name":"Sorabh","ID":2,"Status":"Available"},
+    {"Name":"Ford","ID":3,"Status":"Busy"}]
+},
+{"Region":"West","Members":[{"Name":"Cooper","ID":1,"Status":"Available"},
+    {"Name":"Emma","ID":2,"Status":"Available"},
+    {"Name":"Mili","ID":3,"Status":"Busy"}]
+},
+{"Region":"North","Members":[{"Name":"katy","ID":1,"Status":"Available"},
+    {"Name":"Dua","ID":2,"Status":"Available"},
+    {"Name":"Honey","ID":3,"Status":"Busy"}]
+},
+{"Region":"South","Members":[{"Name":"Diljit","ID":1,"Status":"Available"},
+    {"Name":"Jagjit","ID":2,"Status":"Available"},
+    {"Name":"Arijit","ID":3,"Status":"Busy"}]
+}]

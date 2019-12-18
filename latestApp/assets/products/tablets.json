@@ -1,0 +1,128 @@
+[
+	{
+		"productId": 1,
+		"productName": "Apple iPad Mini 1",
+		"productCode": "TAB-120",
+		"description": "16GB, White",
+		"price": 19442,
+		"imageUrl": "assets/imgs/granade.png",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "Micromax Tab",
+		"productCode": "TAB-124",
+		"description": "64GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	},
+	{
+		"productId": 2,
+		"productName": "Samsung Tab",
+		"productCode": "TAB-124",
+		"description": "4GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Samsung",
+		"ostype": "iOS",
+		"rating": 3
+	},
+	{
+		"productId": 2,
+		"productName": "Lenovo tab",
+		"productCode": "TAB-124",
+		"description": "6GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	},
+	{
+		"productId": 2,
+		"productName": "Apple ipad",
+		"productCode": "TAB-124",
+		"description": "64GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	},
+	{
+		"productId": 2,
+		"productName": "Samsung Tab2",
+		"productCode": "TAB-124",
+		"description": "64GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	},{
+		"productId": 2,
+		"productName": "Hp tab",
+		"productCode": "TAB-124",
+		"description": "64GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	},{
+		"productId": 2,
+		"productName": " iPad 9",
+		"productCode": "TAB-124",
+		"description": "64GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	},{
+		"productId": 2,
+		"productName": " iPad 10",
+		"productCode": "TAB-124",
+		"description": "64GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	},{
+		"productId": 2,
+		"productName": " iPad 11",
+		"productCode": "TAB-124",
+		"description": "64GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	},{
+		"productId": 2,
+		"productName": " iPad 12",
+		"productCode": "TAB-124",
+		"description": "64GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	},{
+		"productId": 2,
+		"productName": " iPad 13",
+		"productCode": "TAB-124",
+		"description": "64GB, Black",
+		"price": 44119,
+		"imageUrl": "assets/imgs/y.jpg",
+		"manufacturer": "Apple",
+		"ostype": "iOS",
+		"rating": 3
+	}
+]

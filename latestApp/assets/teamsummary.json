@@ -1,0 +1,6 @@
+[
+    {"Region":"East","TeamMembersCount":20,"TemporarilyUnavailableMembers":4},
+    {"Region":"West","TeamMembersCount":10,"TemporarilyUnavailableMembers":3},
+    {"Region":"South","TeamMembersCount":15,"TemporarilyUnavailableMembers":5},
+    {"Region":"North","TeamMembersCount":18,"TemporarilyUnavailableMembers":4}
+  ]
